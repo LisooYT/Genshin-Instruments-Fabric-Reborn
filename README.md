@@ -5,12 +5,10 @@
 </p>
 
 <p align="center">
-  An unofficial continuation and revival of Genshin Instruments Fabric, maintained by its previous maintainer, LisooYT.
+  An unofficial continuation and revival of Genshin Instruments Fabric, maintained by LisooYT.
 </p>
 
 <p align="center">
-  <a href="https://github.com/LisooYT/Genshin-Instruments-Fabric-Reborn">Previous project</a>
-  &nbsp; • &nbsp;
   <a href="https://github.com/StavWasPlayZ/Genshin-Instruments-Fabric">Original Fabric project</a>
   &nbsp; • &nbsp;
   <a href="https://github.com/StavWasPlayZ/Genshin-Instruments">Original project</a>
@@ -65,8 +63,7 @@ Development builds may be unstable and are not recommended for regular gameplay.
 For information about the original mod and its functionality, see:
 
 - [Original Genshin Instruments CurseForge page](https://www.curseforge.com/minecraft/mc-mods/genshin-instruments)
-- [Original Forge project wiki](https://github.com/StavWasPlayZ/Genshin-Instruments/wiki)
-- [Fabric documentation](https://docs.fabricmc.net/)
+- [Original project wiki](https://github.com/StavWasPlayZ/Genshin-Instruments/wiki)
 
 Documentation specific to Genshin Instruments Reborn will be added as development progresses.
 
@@ -112,7 +109,7 @@ This project would not exist without the work of the original developers and con
 
 Special thanks to:
 
-- **LisooYT** — Previous maintainer of Genshin Instruments Fabric Reborn and developer of this continuation.
+- **LisooYT** — maintainer of Genshin Instruments Fabric Reborn and developer of this continuation.
 - **StavWasPlayZ** — Creator of the original Genshin Instruments project.
 - **Original contributors** — Everyone who contributed code, ideas, fixes, and improvements to the original projects.
 
@@ -120,9 +117,8 @@ Special thanks to:
 
 Genshin Instruments Reborn continues the work of the following projects:
 
-1. [Previous Fabric project — Genshin Instruments Fabric Reborn](https://github.com/LisooYT/Genshin-Instruments-Fabric-Reborn)
-2. [Original Fabric project — Genshin Instruments Fabric](https://github.com/StavWasPlayZ/Genshin-Instruments-Fabric)
-3. [Original Forge project — Genshin Instruments](https://github.com/StavWasPlayZ/Genshin-Instruments)
+1. [Original Fabric project — Genshin Instruments Fabric](https://github.com/StavWasPlayZ/Genshin-Instruments-Fabric)
+2. [Original project — Genshin Instruments](https://github.com/StavWasPlayZ/Genshin-Instruments)
 
 This project builds upon the work of its predecessors while continuing development independently.
 
